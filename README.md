@@ -6,7 +6,7 @@ git clone https://github.com/M3C4NIX
 
 cd google
 
-python2 translate.py
+python2 Translate.py
 
 ====================================
 
