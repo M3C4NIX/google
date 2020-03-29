@@ -8,10 +8,4 @@ cd google
 
 python2 Translate.py
 
-====================================
-
-English to indo 
-
-indo to English 
-
-==================================
+Enjoyyyyyy.........
